@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Koma
+comment1.params=
+comment1.target=int[][]\ getMoveSet()
+comment2.params=
+comment2.target=int\ getOrder()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=javax.swing.ImageIcon\ getKoma()
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=printBoard
+comment1.params=
+comment1.target=printBoard()
+comment2.params=
+comment2.target=void\ goBack()
+comment3.params=
+comment3.target=void\ printKoma()
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=a
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=
+comment6.target=javax.swing.JComponent\ getBoard()
+numComments=7

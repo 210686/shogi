@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Kyosya
+comment1.params=
+comment1.target=int[][]\ getMoveSet()
+comment2.params=
+comment2.target=javax.swing.ImageIcon\ getKoma()
+comment3.params=order
+comment3.target=Kyosya(int)
+comment4.params=
+comment4.target=int\ getOrder()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+numComments=6
